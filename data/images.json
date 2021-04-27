@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "img/gallery-a.jpg", 
+    "caption": "Baguettes sliced open"
+  }, {
+    "filename": "img/gallery-b.jpg",
+    "caption": "Baguette with cheese"
+  }, {
+    "filename": "img/gallery-c.jpg",
+    "caption": "Delicious sandwich"
+  }
+]
